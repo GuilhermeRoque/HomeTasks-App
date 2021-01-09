@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Labor</string>
+    <string name="register_button">Registrar-se</string>
+    <string name="enter_button">Entrar</string>
+    <string name="login">Login</string>
+    <string name="password">Senha</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="birthday">Data de nascimento</string>
+    <string name="successful_register">Usuário cadastrado</string>
+    <string name="action_settings">Configurações</string>
+    <string name="nav_header_title">Labor</string>
+    <string name="nav_header_subtitle">Organizador de tarefas</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_tasks">Tarefas</string>
+    <string name="menu_home">Casa</string>
+    <string name="menu_rules">Regras</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_payments">Pagamentos</string>
+
+</resources>
